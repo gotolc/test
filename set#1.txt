@@ -1,0 +1,6 @@
+weekdays=set(['MON','TUE','WED','THU','FRI','SAT','SUN'])
+x='MON'
+if x in weekdays:
+    print 'input ok'
+else:
+    print 'input error'
